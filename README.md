@@ -34,7 +34,7 @@ I'm a <b>Computer Science student at King Abdulaziz University (KAU)</b> 🎓. <
 I have a deep interest in the world of data and building intelligent systems.
 
 - 🔭 I’m currently focused on: **Data Science & Machine Learning** 🤖
-- ⚡ Tools:  VS code, Docker, Jupyter Notebooks, Git & Github
+
 </p>
 
 ###
